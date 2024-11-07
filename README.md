@@ -28,3 +28,9 @@ sample out: this code prints input and output and notifies when processing job i
 
 You can look under processing section
 ![image](https://github.com/user-attachments/assets/cf729842-3e21-4cd7-b011-4b76eb3ac46b)
+
+Inputdata format
+![image](https://github.com/user-attachments/assets/29ffa466-ed6c-47ab-b24c-8084163bf9dc)
+
+output data:
+![image](https://github.com/user-attachments/assets/91ad0a40-3cad-4b47-b90c-8ca6cc668bf3)
