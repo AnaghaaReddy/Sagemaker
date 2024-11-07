@@ -9,12 +9,16 @@ Using the terminal in the notebook instance. Bulid the docker image. login to ec
 you can use following commands for reference:
 First you need to compile the c++ code to and store the file in the same directory
 >g++ main.cpp -o a.out
+
 Now build docker image:
 >docker build -t cpp_processing_1 .
+
 Now login to ecr:
 >aws ecr get-login-password --region eu-north-1 | docker login --username AWS --password-stdin 665764469544.dkr.ecr.eu-north-1.amazonaws.com
+
 Now tag the image:
 >docker tag cpp_processing_1:latest 665764469544.dkr.ecr.eu-north-1.amazonaws.com/cpp_processing_1:latest
+
 Now push  the image:
 > docker push 665764469544.dkr.ecr.eu-north-1.amazonaws.com/cpp_processing_1:latest
 
