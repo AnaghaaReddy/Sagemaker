@@ -24,7 +24,7 @@ Now push  the image:
 
 Now excete the file that contains code to execute a processing job.
 sample out: this code prints input and output and notifies when processing job is initiated.
-![image](https://github.com/user-attachments/assets/4f0047b8-6161-4eb0-8855-7b91960a6a08)
+![image](https://github.com/user-attachments/assets/9d32e998-b7c1-42c8-934e-20f6f3a3613c)
 
 You can look under processing section
 ![image](https://github.com/user-attachments/assets/cf729842-3e21-4cd7-b011-4b76eb3ac46b)
